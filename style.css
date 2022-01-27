@@ -6,8 +6,8 @@
 }
 body{
     font-size: 12px;
-    font-family: "Poppins", sans-serif;
-    background: linear-gradient(90deg, #afc1e2, #a7bfe8);
+    font-family: sans-serif;
+    background: linear-gradient(90deg, #d3dae7, #a7bfe8);
 }
 
 .container{
@@ -46,7 +46,7 @@ body{
 .container .card .content .bottom-text{
     font-size: 1em;
     font-weight: 400;
-    color: gray;
+    color: rgb(153, 149, 149);
     text-align: center;
   
   }
